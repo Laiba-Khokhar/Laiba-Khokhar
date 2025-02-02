@@ -1,6 +1,5 @@
 # 💫 About Me:
 <br><br>🛠️ I’m currently working on a mental health support chatbot using Dialogflow.<br>🤝 I’m looking to collaborate on MERN stack projects and AI-based applications.<br>🤲 I’m looking for help with improving NLP models for sentiment analysis.<br>🌱 I’m currently learning advanced AI chatbot development and integrating machine learning models.<br>💬 Ask me about MERN stack, React.js, and AI chatbot development.<br>⚡ Fun fact: AI chatbots can simulate therapy-like conversations but should not replace real therapists!<br><br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laiba Zahid) 
 
